@@ -16,3 +16,6 @@ Others: C++, Git, Linux CLI, Heroku, Docker, Travis CI
   
 I am detail-oriented, but even more client-oriented, that’s why I am always trying to find the best possible solution for any issue. 
 I use best software practices and take pride in writing code that is maintainable and performs well.
+
+P.S.
+Synyster991 is my old GitHub Account.
