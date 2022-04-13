@@ -1,4 +1,4 @@
-Hi, My name is Filip, I have been developing web-based applications with Django and PostgreSQL for the past 3 years.  
+Hi, My name is Filip, I have been developing web-based applications with Django and PostgreSQL for the past 2 years.  
 I know how to organize development from client requirements to production deployment and can adapt to anything given enough time for the learning curve.  
 
 I have: 
